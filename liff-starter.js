@@ -185,8 +185,8 @@ function meProfile(){
                     actions: [
                         {
                             type:"uri",
-                            label:"Me",
-                            uri:"line://app/1590732676-gLRjWyXN?type=profile"
+                            label:"Profile",
+                            uri:"line://app/1654116830-ze6KM4DM?type=profile"
                         }
                     ]
                 }
