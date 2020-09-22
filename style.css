@@ -28,7 +28,7 @@ font-weight:bold;
 }
 
 .glitch-text::before{
-content:'ERROR 404';
+content:'DEAD LINE';
 color:black;
 text-shadow:0px 0px 5px 10px black!IMPORTANT;
 -webkit-filter: blur(7px);
